@@ -1,0 +1,50 @@
+{
+  "name": "react-native-autocomplete-tags",
+  "version": "2.0.0",
+  "description": "Autocomplete text input with tags",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write \"src/*.tsx\" \"src/*.js\"",
+    "build": "tsc --project ./tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eldjotnar/react-native-autocomplete-tags.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^16.9.49",
+    "@types/react-native": "^0.63.20",
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "prettier": "^2.1.2",
+    "typedoc": "^0.19.2",
+    "typedoc-plugin-markdown": "^3.0.3",
+    "typescript": "^4.0.3"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "text input",
+    "tags",
+    "autocomplete",
+    "input",
+    "email"
+  ],
+  "homepage": "https://github.com/Eldjotnar/react-native-autocomplete-tags#readme",
+  "dependencies": {}
+}
